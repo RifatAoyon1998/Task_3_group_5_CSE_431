@@ -4,7 +4,8 @@ Link to unlisted youtube video:
 
 
 Two public link to the Concept Map (anyone on the internet can view without login):
-PDF: 
+
+PDF: https://github.com/RifatAoyon1998/Task_3_group_5_CSE_431/blob/main/Task_3_group_5_CSE_431_Concept_Map.pdf 
 
 Native/original format: 
 
