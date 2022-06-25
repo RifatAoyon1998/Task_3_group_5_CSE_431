@@ -8,6 +8,7 @@ PDF:
 
 Native/original format: 
 
+https://excalidraw.com/#json=KpZ6z7sqsJKBN9TBwr68V,nYCRMSfsfkQzlaFP8paCSA
 
 Name, Author, Edition, year and publisher of the Book:
 
