@@ -10,13 +10,16 @@ Native/original format:
 
 
 Name, Author, Edition, year and publisher of the Book:
+
 Speech and Language Processing. (3rd ed. draft)
 Daniel Jurafsky & James H. Martin. 
 
 Link to the book:
+
 https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
+
 https://web.stanford.edu/~jurafsky/slp3/23.pdf
 
 Group Number:
